@@ -7,11 +7,11 @@ body {
 }
 
 .left {
-  width: 25%
+  width: 25%;
 }
 
 .right {
-  width: 75%
+  width: 75%;
 }
 
 .row:after {
