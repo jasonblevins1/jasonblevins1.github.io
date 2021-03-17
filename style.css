@@ -2,8 +2,7 @@ body {
   box-sizing: border-box;
 }
 
-.columnone, columntwo {
-  display:inline-block;
+.column {
   float: left;
   padding: 10px;
 }
