@@ -2,6 +2,14 @@ body {
   box-sizing: border-box;
 }
 
+.container {
+  max-width: 1170px
+    width:100%;
+  margin:0 auto;
+  
+  display: flex
+}
+
 .column {
   float: left;
   padding: 10px;
@@ -15,8 +23,3 @@ body {
   width: 75%;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
