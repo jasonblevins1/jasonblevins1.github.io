@@ -7,14 +7,14 @@ body {
   padding: 10px;
 }
 
-.left {
-  width: 25%;
+.columnone {
   display:inline-block;
+  width: 25%;
 }
 
-.right {
-  width: 75%;
+.columntwo {
   display:inline-block;
+  width: 75%;
 }
 
 .row:after {
