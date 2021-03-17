@@ -2,18 +2,17 @@ body {
   box-sizing: border-box;
 }
 
-.column {
+.columnone, columntwo {
+  display:inline-block;
   float: left;
   padding: 10px;
 }
 
 .columnone {
-  display:inline-block;
   width: 25%;
 }
 
 .columntwo {
-  display:inline-block;
   width: 75%;
 }
 
