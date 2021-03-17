@@ -5,6 +5,14 @@ h2{
   text-align: center;
 }
 
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
 .container {
   max-width: 1170px
     width:100%;
