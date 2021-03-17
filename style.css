@@ -1,8 +1,7 @@
 body {
   box-sizing: border-box;
 }
-h2 {text-align: center;}
-p {text-align: center;}
+div {text-align: center;}
 .container {
   max-width: 1170px
     width:100%;
