@@ -17,6 +17,7 @@ body {
 
 .columnone {
   width: 25%;
+  h2 {text-align: center}
 }
 
 .columntwo {
