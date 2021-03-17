@@ -4,7 +4,14 @@ body {
 
 .column {
   float: left;
-    width: 25%;
+}
+
+.left {
+  width: 25%
+}
+
+.right {
+  width: 75%
 }
 
 .row:after {
